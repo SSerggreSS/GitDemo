@@ -13,6 +13,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("fix Big bug")
     }
+    
+    func bugFixFuction() {
+        print("realy fix bug")
+    }
 
 
 }
